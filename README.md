@@ -65,10 +65,6 @@ The design was verified using **GHDL** and analyzed inside **VS Code** using the
 * **Adder Pipeline Aggregation**: 12 + 102 + 63 = 177
 * **Final Output (8-bit Grayscale)**: `10101001` (Decimal 177)
 
-> **Simulation Result:** Below is the waveform capturing the RTL logic instantly computing the output for the teal pixel constraint.
-> 
-> *[ 🖼️ Insert your VaporView/GTKWave Screenshot Here ]*
-
 ---
 
 ## 🚀 How to Run the Toolchain
