@@ -91,3 +91,4 @@ To compile and generate the waveform file manually via the command line, run:
 ```bash
 ghdl -a shifter.vhd greyadder.vhd toplevel_rgbtogrey.vhd gry_tb.vhd && ghdl -e gry_tb && ghdl -r gry_tb --vcd=wave.vcd
 ```
+@Badr
