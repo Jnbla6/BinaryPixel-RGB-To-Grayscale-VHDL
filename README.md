@@ -1,5 +1,8 @@
 # RTL BinaryPixel Grayscale Processor 🚀
 
+<img width="764" height="409" alt="image" src="https://github.com/user-attachments/assets/d14b738d-2bec-40e5-a217-2dd458163a41" />
+
+
 A high-performance, low-level hardware architecture implemented in VHDL that transforms a 24-bit True Color RGB pixel stream into an optimized 8-bit grayscale intensity. 
 
 Instead of using heavy, resource-intensive division components, this processor operates directly at the silicon layer. It achieves maximum efficiency by combining zero-overhead hardware wire-shifting with a custom-built 8-bit Ripple Carry Adder matrix.
